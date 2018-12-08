@@ -10,11 +10,11 @@ html, body {
   * Typography
   * ============================================ */
 
-body {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  background: #fff;
-}
+  body {
+    font-family: 'Alegreya', serif;
+    font-size: 16px;
+    background: $sand;
+  }
 
 h1, .title-1 { @include title-1; }
 h2, .title-2 { @include title-2; }
