@@ -17,6 +17,9 @@
   .article p {
     margin: 0.5em 0 1em;
   }
+  .row {
+    flex-wrap: wrap;
+  }
 }
 
 @media (max-width:768px) {
